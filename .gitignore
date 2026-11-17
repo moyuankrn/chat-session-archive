@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+*.sqlite3
+*.db
+*.jsonl
+*.jsonl.gz
+secrets.txt
+archive/
+live/
+out/
